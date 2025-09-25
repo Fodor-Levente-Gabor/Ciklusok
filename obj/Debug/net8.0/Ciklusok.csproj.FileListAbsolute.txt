@@ -1,0 +1,14 @@
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.AssemblyInfoInputs.cache
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.AssemblyInfo.cs
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\bin\Debug\net8.0\Ciklusok.exe
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\bin\Debug\net8.0\Ciklusok.deps.json
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\bin\Debug\net8.0\Ciklusok.runtimeconfig.json
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\bin\Debug\net8.0\Ciklusok.dll
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\bin\Debug\net8.0\Ciklusok.pdb
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.dll
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\refint\Ciklusok.dll
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.pdb
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.genruntimeconfig.cache
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\ref\Ciklusok.dll
