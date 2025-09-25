@@ -141,11 +141,12 @@ namespace Ciklsok
                     Console.WriteLine($"{num6 * a}");
                 }
             }
-            */
+            
             //Feladat7
             for (int a = 0; a <= 10; a++)
             {
                 Console.Write("Adj meg egy számot: ");
+                
                 int num7 = Convert.ToInt32(Console.ReadLine());
                 if (num7>0)
                 {
@@ -176,6 +177,79 @@ namespace Ciklsok
                 {
                     Console.WriteLine($"nem osztható 3-mal ");
                 }
+            }
+            
+            //Feladat8
+            bool run = true;
+            while (run)
+            {
+                Console.Write("Adj meg egy jelszót: ");
+                string password = Console.ReadLine();
+                Console.Write("Add meg a jelszót mégegszer: ");
+                string password2 = Console.ReadLine();
+                if (password == password2)
+                {
+                    run = false;
+                }
+                else
+                {
+                    Console.WriteLine("Ugyanazt a jelszót add meg: ");
+                }
+            }
+            Console.Write("Adj meg egy szöveget: ");
+            string szoveg = "";
+            szoveg = Console.ReadLine();
+            for (int a = szoveg.Length-1; a != 0;a--)
+            {
+                Console.Write($"{szoveg[a]}");
+            }
+            
+            //Feladat9
+            Console.Write("Adj meg egy számot: ");
+            int primCounter = 0;
+            int num8 = Convert.ToInt32(Console.ReadLine());
+            for (int a = 2; a < num8; a++)
+            {
+                bool prim = true;
+                for (int i = 2; i < a; i++)
+                {
+                    if (a % i == 0)
+                    {
+                        prim = false;
+                        break;
+                    }
+                }
+                if (prim)
+                {
+                    primCounter++;
+                    //Console.WriteLine($"{a}");
+                }
+            }
+            Console.WriteLine($"{primCounter}");
+            */
+            //Feladat10
+            Random randomGenerator = new Random();
+            int pcWins = 0;
+            int playerWins = 0;
+            int dontetlen = 0;
+            for (int a = 0; a < 5; a++)
+            {
+                int randomNumber = randomGenerator.Next(1, 3);
+                Console.Write("1 kő, 2 papír, 3 olló, írj be egy számot: ");
+                int num9 = Convert.ToInt32(Console.ReadLine());
+                if (randomNumber == num9)
+                {
+                    dontetlen++;
+                }
+                else if (num9 == 1 && randomNumber == 3 || num9 == 2 && randomNumber == 1 || num9 == 3 && randomNumber == 2)
+                {
+                    playerWins++;
+                }
+                else
+                {
+                    pcWins++;
+                }
+                Console.WriteLine($"{pcWins}, {playerWins}, {dontetlen}");
             }
         }
     }

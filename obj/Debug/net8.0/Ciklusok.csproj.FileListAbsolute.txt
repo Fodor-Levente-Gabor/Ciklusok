@@ -12,3 +12,4 @@ C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\refint\Ciklus
 C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.pdb
 C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.genruntimeconfig.cache
 C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\ref\Ciklusok.dll
+C:\Users\FodorLG\Documents\IKT\Ciklusok2\Ciklusok\obj\Debug\net8.0\Ciklusok.sourcelink.json
